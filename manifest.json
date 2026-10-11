@@ -1,0 +1,16 @@
+{
+  "version": "20261011T122200Z",
+  "generated_at": "2026-10-11T12:22:00.466Z",
+  "companies": 47737,
+  "indexed": 16997,
+  "files": {
+    "directory.json.gz": {
+      "sha256": "181fcc7eb769f2846ba68dc3a88226d8d3aef4685b364f0c5a6be8b7d9c7e34d",
+      "bytes": 1163064
+    },
+    "index.json.gz": {
+      "sha256": "45bf52d6dda61d3d3d6613b6b9b7fa89fe837d274d73d7834f0d0aaadbcdb531",
+      "bytes": 7012055
+    }
+  }
+}

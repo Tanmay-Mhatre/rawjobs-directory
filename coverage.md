@@ -1,6 +1,6 @@
 # Directory coverage
 
-Independent sample: 1,095 Wikidata companies resolved, 133 on a system the directory tracks, 0 on another system, 353 with a careers page we can't read.
+Independent sample: 2,308 Wikidata companies resolved, 300 on a system the directory tracks, 0 on another system, 707 with a careers page we can't read.
 
 ## Universe: how much of each hiring system we hold
 
@@ -8,41 +8,41 @@ Independent sample: 1,095 Wikidata companies resolved, 133 on a system the direc
 
 | Hiring system | Ours (live + dormant) | Estimate | Ours / estimate | Sample boards | Already had | Sample coverage | Listed only by restricted sources |
 |---|---|---|---|---|---|---|---|
-| greenhouse | 8,971 | 9,478 | 95% | 7 | 7 | 100% | 225 |
-| lever | 2,829 | 2,838 | 100% | 3 | 3 | 100% | 63 |
-| ashby | 4,391 | 4,491 | 98% | 1 | 1 | 100% | 189 |
-| smartrecruiters | 3,738 | 7,551 | 50% | 1 | 1 | 100% | 0 |
-| workday | 5,423 | 5,539 | 98% | 41 | 39 | 95% | 8,317 |
-| workable | 3,630 | 3,690 | 98% | 2 | 2 | 100% | 0 |
+| greenhouse | 8,982 | 9,498 | 95% | 22 | 21 | 95% | 217 |
+| lever | 2,830 | 2,839 | 100% | 8 | 8 | 100% | 63 |
+| ashby | 4,396 | 4,496 | 98% | 3 | 3 | 100% | 189 |
+| smartrecruiters | 3,743 | 7,556 | 50% | 3 | 3 | 100% | 0 |
+| workday | 5,607 | 5,723 | 98% | 109 | 107 | 98% | 8,234 |
+| workable | 6,476 | 12,128 | 53% | 5 | 5 | 100% | 0 |
 | recruitee | 879 | 129,067 | 1% | 2 | 2 | 100% | 0 |
 | personio | 802 | 161,002 | 0% | 1 | 0 | 0% | 0 |
-| bamboohr | 5,546 | 32,154 | 17% | 4 | 1 | 25% | 0 |
+| bamboohr | 5,548 | 32,156 | 17% | 7 | 2 | 29% | 0 |
 | breezy | 2,309 | 2,475 | 93% | 1 | 1 | 100% | 0 |
-| successfactors | 18 | 18 | 100% | 18 | 0 | 0% | 0 |
-| teamtailor | 940 | 1,004 | 94% | 3 | 2 | 67% | 0 |
-| comeet | 124 | 3,876 | 3% | 1 | 0 | 0% | 0 |
-| oracle | 885 | 1,402 | 63% | 14 | 12 | 86% | 0 |
-| icims | 1,527 | 582,552 | 0% | 4 | 2 | 50% | 0 |
-| taleo | 220 | 220 | 100% | 0 | 0 | – | 0 |
-| jobvite | 740 | 800 | 93% | 1 | 0 | 0% | 0 |
+| successfactors | 47 | 47 | 100% | 47 | 0 | 0% | 0 |
+| teamtailor | 941 | 1,005 | 94% | 4 | 2 | 50% | 0 |
+| comeet | 577 | 1,012 | 57% | 2 | 2 | 100% | 0 |
+| oracle | 885 | 1,402 | 63% | 21 | 19 | 90% | 0 |
+| icims | 1,533 | 582,558 | 0% | 14 | 6 | 43% | 0 |
+| taleo | 220 | 220 | 100% | 1 | 1 | 100% | 0 |
+| jobvite | 868 | 1,035 | 84% | 3 | 3 | 100% | 0 |
 | pinpoint | 924 | 5,426 | 17% | 2 | 1 | 50% | 0 |
 | rippling | 1,114 | 1,743 | 64% | 1 | 0 | 0% | 0 |
-| jazzhr | 1,254 | 1,847 | 68% | 0 | 0 | – | 0 |
+| jazzhr | 1,256 | 1,849 | 68% | 2 | 0 | 0% | 0 |
 | zoho | 881 | 194,701 | 0% | 0 | 0 | – | 0 |
-| hibob | 207 | 10,868 | 2% | 0 | 0 | – | 0 |
+| hibob | 208 | 10,869 | 2% | 1 | 0 | 0% | 0 |
 | freshteam | 380 | 3,201 | 12% | 0 | 0 | – | 0 |
-| **All** | 47,732 | 1,165,943 | 4% | 107 | 74 | 69% | 8,794 |
+| **All** | 51,406 | 1,172,008 | 4% | 259 | 186 | 72% | 8,703 |
 
 ### Which URL source carries its weight (live + dormant boards)
 
 | Source family | Boards | Only this source |
 |---|---|---|
-| latmay | 35,184 | 11,430 |
-| commoncrawl | 28,024 | 5,025 |
-| wayback | 20,174 | 3,249 |
-| kalil | 15,937 | 564 |
-| openjobsdata | 364 | 9 |
-| cryptojobs | 294 | 4 |
+| latmay | 36,467 | 12,196 |
+| wayback | 26,269 | 5,493 |
+| commoncrawl | 28,117 | 4,890 |
+| kalil | 15,937 | 551 |
+| openjobsdata | 366 | 9 |
+| cryptojobs | 296 | 2 |
 | openroles | 10,570 | 1 |
 | jobseek | 3,371 | 0 |
 | lastround | 9,236 | 0 |
@@ -50,7 +50,7 @@ Independent sample: 1,095 Wikidata companies resolved, 133 on a system the direc
 
 # Coverage of must-have companies
 
-Seed list: 315 companies (scripts/catalog/seeds/industries.json). Resolved 2026-10-11.
+Seed list: 315 companies (scripts/catalog/seeds/industries.json). Resolved 2026-10-12.
 
 **Trackable** = on a hiring system we scan today. **Not scannable** = board found on a system we don't scan yet. **Custom site** = careers page with no board we can read (hint: which system its pages mention).
 
@@ -78,17 +78,17 @@ Seed list: 315 companies (scripts/catalog/seeds/industries.json). Resolved 2026-
 
 | Hiring system | Seed boards found | Seed sites mentioning it | Directory companies on it | Seed companies |
 |---|---|---|---|---|
-| workable | 7 | 0 | 3,630 | Admirals, Distributedcrafts, Hex Trust, Io-Global, Pepperstone, Walletconnect, Zodia Custody |
-| workday | 3 | 0 | 5,423 | Circle, OANDA, Saxo Bank |
-| comeet | 3 | 0 | 126 | eToro, Leverate, Rapyd |
-| bamboohr | 2 | 0 | 5,546 | IC Markets, Tickmill |
+| workable | 7 | 0 | 6,476 | Admirals, Distributedcrafts, Hex Trust, Io-Global, Pepperstone, Walletconnect, Zodia Custody |
+| workday | 3 | 0 | 5,607 | Circle, OANDA, Saxo Bank |
+| comeet | 3 | 0 | 579 | eToro, Leverate, Rapyd |
+| bamboohr | 2 | 0 | 5,548 | IC Markets, Tickmill |
 | rippling | 2 | 0 | 1,114 | O1labs, Webull |
 | oracle | 2 | 0 | 885 | ADGM, Emirates NBD |
 | recruitee | 2 | 0 | 880 | Bitfinex, Deribit |
 | pinpoint | 1 | 0 | 924 | Tabby |
 | personio | 1 | 0 | 802 | Safe.Global |
 | taleo | 1 | 0 | 221 | Mashreq |
-| successfactors | 1 | 0 | 19 | Equiti |
+| successfactors | 1 | 0 | 48 | Equiti |
 
 ## Not trackable yet
 

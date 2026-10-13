@@ -1,16 +1,16 @@
 {
-  "version": "20261012T094326Z",
-  "generated_at": "2026-10-12T09:43:26.382Z",
-  "companies": 51411,
-  "indexed": 17017,
+  "version": "20261013T234047Z",
+  "generated_at": "2026-10-13T23:40:47.180Z",
+  "companies": 165679,
+  "indexed": 27697,
   "files": {
     "directory.json.gz": {
-      "sha256": "de14c7c19b9df1a685e1c368f482d050fb6610f156bbfea6e448666632110f62",
-      "bytes": 1242443
+      "sha256": "98c8e64fb95a93b0063e7e4926ef83a1b8e2264851ca35a06f025b098dc7168e",
+      "bytes": 5083787
     },
     "index.json.gz": {
-      "sha256": "72d9c9362ea89e05efad36319611e897689d0eca7b0be42fa1423186451a1d75",
-      "bytes": 7034136
+      "sha256": "7c3f9a9eeeada67176945d1d9a4595ac1fb906f070843ec03e2ef2b67f13437d",
+      "bytes": 8463265
     }
   }
 }

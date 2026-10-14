@@ -29,6 +29,18 @@
    "status": "live",
    "open_jobs": 6,
    "added_at": "2026-10-10T21:37:22.583Z"
+  },
+  {
+   "key": "oracle:hcld",
+   "name": "Hcld",
+   "ats": "oracle",
+   "slug": "hcld",
+   "shard": "em2",
+   "site": "CX_1",
+   "careers_url": "https://hcld.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+   "status": "live",
+   "open_jobs": 406,
+   "added_at": "2026-10-14T21:44:28.173Z"
   }
  ]
 }

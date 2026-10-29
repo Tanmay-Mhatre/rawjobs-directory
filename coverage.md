@@ -1,6 +1,6 @@
 # Directory coverage
 
-Independent sample: 10,113 Wikidata companies resolved, 1574 on a system the directory tracks, 0 on another system, 2880 with a careers page we can't read.
+Independent sample: 12,500 Wikidata companies resolved, 1984 on a system the directory tracks, 0 on another system, 3533 with a careers page we can't read.
 
 ## Universe: how much of each hiring system we hold
 
@@ -8,89 +8,89 @@ Independent sample: 10,113 Wikidata companies resolved, 1574 on a system the dir
 
 | Hiring system | Ours (live + dormant) | Estimate | Ours / estimate | Sample boards | Already had | Sample coverage | Listed only by restricted sources |
 |---|---|---|---|---|---|---|---|
-| greenhouse | 9,869 | 10,432 | 95% | 96 | 93 | 97% | 162 |
-| lever | 2,911 | 2,965 | 98% | 21 | 21 | 100% | 63 |
-| ashby | 4,881 | 5,127 | 95% | 20 | 20 | 100% | 87 |
-| smartrecruiters | 13,157 | 31,446 | 42% | 32 | 30 | 94% | 0 |
-| workday | 8,188 | 8,822 | 93% | 457 | 454 | 99% | 6,920 |
-| workable | 13,994 | 25,282 | 55% | 17 | 17 | 100% | 0 |
-| recruitee | 4,478 | 6,096 | 73% | 12 | 10 | 83% | 0 |
-| personio | 5,381 | 5,700 | 94% | 7 | 7 | 100% | 0 |
-| bamboohr | 16,452 | 20,444 | 80% | 21 | 19 | 90% | 0 |
-| breezy | 4,735 | 6,676 | 71% | 7 | 6 | 86% | 0 |
-| successfactors | 1,902 | 2,180 | 87% | 183 | 14 | 8% | 0 |
-| teamtailor | 4,447 | 10,825 | 41% | 67 | 37 | 55% | 0 |
-| comeet | 720 | 769 | 94% | 9 | 9 | 100% | 0 |
-| oracle | 1,223 | 1,379 | 89% | 102 | 99 | 97% | 0 |
-| icims | 3,246 | 3,886 | 84% | 51 | 43 | 84% | 0 |
-| taleo | 238 | 239 | 100% | 10 | 10 | 100% | 0 |
-| jobvite | 1,714 | 2,683 | 64% | 11 | 11 | 100% | 0 |
-| pinpoint | 1,738 | 3,501 | 50% | 7 | 7 | 100% | 0 |
-| rippling | 3,304 | 4,116 | 80% | 7 | 7 | 100% | 0 |
-| jazzhr | 5,938 | 8,776 | 68% | 10 | 10 | 100% | 0 |
-| zoho | 3,392 | 25,898 | 13% | 1 | 1 | 100% | 0 |
-| hibob | 530 | 659 | 80% | 5 | 3 | 60% | 0 |
-| freshteam | 512 | 1,217 | 42% | 0 | 0 | – | 0 |
-| join | 37,153 | 61,160 | 61% | 0 | 0 | – | 0 |
-| paylocity | 13,510 | 35,115 | 38% | 15 | 14 | 93% | 0 |
-| paycom | 10,739 | 14,616 | 73% | 4 | 3 | 75% | 0 |
-| hireology | 4,656 | 35,415 | 13% | 0 | 0 | – | 0 |
-| ukg | 2,926 | 3,681 | 79% | 45 | 43 | 96% | 0 |
-| eightfold | 64 | 65 | 98% | 9 | 9 | 100% | 0 |
+| greenhouse | 9,880 | 10,447 | 95% | 133 | 129 | 97% | 153 |
+| lever | 2,914 | 2,971 | 98% | 27 | 27 | 100% | 60 |
+| ashby | 4,914 | 5,185 | 95% | 28 | 28 | 100% | 52 |
+| smartrecruiters | 13,168 | 31,481 | 42% | 36 | 35 | 97% | 0 |
+| workday | 8,229 | 8,817 | 93% | 568 | 562 | 99% | 6,907 |
+| workable | 14,014 | 25,032 | 56% | 24 | 24 | 100% | 0 |
+| recruitee | 4,520 | 6,054 | 75% | 13 | 11 | 85% | 0 |
+| personio | 5,411 | 5,731 | 94% | 8 | 8 | 100% | 0 |
+| bamboohr | 17,273 | 20,146 | 86% | 24 | 23 | 96% | 0 |
+| breezy | 4,743 | 6,684 | 71% | 12 | 10 | 83% | 0 |
+| successfactors | 1,949 | 2,226 | 88% | 231 | 16 | 7% | 0 |
+| teamtailor | 4,620 | 10,572 | 44% | 82 | 45 | 55% | 0 |
+| comeet | 723 | 775 | 93% | 12 | 12 | 100% | 0 |
+| oracle | 1,252 | 1,363 | 92% | 118 | 115 | 97% | 0 |
+| icims | 3,302 | 3,870 | 85% | 65 | 57 | 88% | 0 |
+| taleo | 298 | 307 | 97% | 12 | 12 | 100% | 0 |
+| jobvite | 1,726 | 2,677 | 64% | 11 | 11 | 100% | 0 |
+| pinpoint | 1,744 | 3,522 | 50% | 8 | 8 | 100% | 0 |
+| rippling | 3,349 | 4,043 | 83% | 8 | 8 | 100% | 0 |
+| jazzhr | 5,940 | 8,762 | 68% | 14 | 14 | 100% | 0 |
+| zoho | 3,531 | 19,809 | 18% | 1 | 1 | 100% | 0 |
+| hibob | 536 | 658 | 81% | 6 | 4 | 67% | 0 |
+| freshteam | 542 | 1,212 | 45% | 0 | 0 | – | 0 |
+| join | 37,213 | 60,634 | 61% | 0 | 0 | – | 0 |
+| paylocity | 14,123 | 25,217 | 56% | 16 | 14 | 88% | 0 |
+| paycom | 10,854 | 14,706 | 74% | 4 | 3 | 75% | 0 |
+| hireology | 4,791 | 19,115 | 25% | 0 | 0 | – | 0 |
+| ukg | 2,988 | 3,644 | 82% | 52 | 50 | 96% | 0 |
+| eightfold | 86 | 88 | 98% | 13 | 13 | 100% | 0 |
 | phenom | 134 | 171 | 78% | 0 | 0 | – | 0 |
-| careerplug | 6,645 | 274,720 | 2% | 4 | 4 | 100% | 0 |
-| dayforce | 1,910 | 2,168 | 88% | 11 | 10 | 91% | 0 |
-| adp | 3,675 | 33,072 | 11% | 30 | 12 | 40% | 0 |
-| applicantpro | 5,956 | 22,032 | 27% | 4 | 4 | 100% | 0 |
-| paycor | 2,444 | 1,492,675 | 0% | 6 | 4 | 67% | 0 |
-| hiringthing | 1,468 | 36,606 | 4% | 1 | 0 | 0% | 0 |
-| manatal | 1,986 | 6,793 | 29% | 3 | 2 | 67% | 0 |
-| trakstar | 707 | 8,688 | 8% | 1 | 1 | 100% | 0 |
-| factorial | 934 | 12,385 | 8% | 4 | 3 | 75% | 0 |
-| gem | 503 | 644 | 78% | 0 | 0 | – | 0 |
-| hrmdirect | 1,207 | 3,438 | 35% | 1 | 0 | 0% | 0 |
-| softgarden | 409 | 1,254 | 33% | 4 | 1 | 25% | 0 |
-| cornerstone | 544 | 609 | 89% | 13 | 13 | 100% | 0 |
-| keka | 258 | 268 | 96% | 0 | 0 | – | 0 |
-| taleobe | 236 | 280 | 84% | 3 | 3 | 100% | 0 |
-| jobscore | 204 | 308 | 66% | 0 | 0 | – | 0 |
-| avature | 7 | 7 | 100% | 7 | 0 | 0% | 0 |
-| pageup | 80 | 1,660 | 5% | 0 | 0 | – | 0 |
+| careerplug | 6,696 | 201,471 | 3% | 4 | 4 | 100% | 0 |
+| dayforce | 1,927 | 2,142 | 90% | 16 | 15 | 94% | 0 |
+| adp | 4,821 | 19,867 | 24% | 40 | 19 | 48% | 0 |
+| applicantpro | 6,071 | 16,405 | 37% | 4 | 4 | 100% | 0 |
+| paycor | 2,444 | 1,492,675 | 0% | 7 | 5 | 71% | 0 |
+| hiringthing | 1,485 | 26,966 | 6% | 1 | 0 | 0% | 0 |
+| manatal | 2,305 | 6,721 | 34% | 4 | 3 | 75% | 0 |
+| trakstar | 751 | 3,153 | 24% | 2 | 2 | 100% | 0 |
+| factorial | 952 | 6,874 | 14% | 6 | 5 | 83% | 0 |
+| gem | 604 | 711 | 85% | 0 | 0 | – | 0 |
+| hrmdirect | 1,216 | 3,479 | 35% | 3 | 2 | 67% | 0 |
+| softgarden | 450 | 1,230 | 37% | 8 | 1 | 13% | 0 |
+| cornerstone | 568 | 615 | 92% | 16 | 16 | 100% | 0 |
+| keka | 297 | 318 | 93% | 1 | 1 | 100% | 0 |
+| taleobe | 272 | 315 | 86% | 5 | 4 | 80% | 0 |
+| jobscore | 228 | 308 | 74% | 0 | 0 | – | 0 |
+| avature | 74 | 1,425 | 5% | 7 | 7 | 100% | 0 |
+| pageup | 104 | 2,782 | 4% | 1 | 1 | 100% | 0 |
 | radancy | 0 | 0 | – | 0 | 0 | – | 0 |
-| oleeo | 2 | 2 | 100% | 2 | 0 | 0% | 0 |
+| oleeo | 70 | 1,278 | 5% | 2 | 2 | 100% | 0 |
 | jobtrain | 0 | 0 | – | 0 | 0 | – | 0 |
-| varbi | 121 | 3,691 | 3% | 1 | 0 | 0% | 0 |
-| reachmee | 3 | 3 | 100% | 3 | 0 | 0% | 0 |
-| jobylon | 0 | 0 | – | 0 | 0 | – | 0 |
-| homerun | 1 | 1 | 100% | 1 | 0 | 0% | 0 |
-| emply | 0 | 0 | – | 0 | 0 | – | 0 |
+| varbi | 164 | 6,766 | 2% | 1 | 0 | 0% | 0 |
+| reachmee | 4 | 4 | 100% | 4 | 0 | 0% | 0 |
+| jobylon | 14 | 60 | 23% | 0 | 0 | – | 0 |
+| homerun | 457 | 52,327 | 1% | 1 | 0 | 0% | 0 |
+| emply | 16 | 76 | 21% | 1 | 1 | 100% | 0 |
 | bullhorn | 0 | 0 | – | 0 | 0 | – | 0 |
-| hrmos | 15 | 15 | 100% | 15 | 0 | 0% | 0 |
-| herp | 3 | 3 | 100% | 3 | 0 | 0% | 0 |
-| engage | 0 | 0 | – | 0 | 0 | – | 0 |
-| **All** | 211,450 | 2,240,663 | 9% | 1343 | 1054 | 78% | 7,232 |
+| hrmos | 1,039 | 266,522 | 0% | 23 | 15 | 65% | 0 |
+| herp | 820 | 167,080 | 0% | 5 | 1 | 20% | 0 |
+| engage | 3,686 | 3,393,888 | 0% | 4 | 1 | 25% | 0 |
+| **All** | 222,302 | 5,981,377 | 4% | 1692 | 1349 | 80% | 7,172 |
 
 ### Which URL source carries its weight (live + dormant boards)
 
 | Source family | Boards | Only this source |
 |---|---|---|
-| freehire | 123,334 | 63,185 |
-| wayback | 71,456 | 19,144 |
-| kalil | 70,247 | 16,174 |
-| latmay | 43,574 | 9,890 |
-| openingsmcp | 34,567 | 7,663 |
-| commoncrawl | 53,722 | 5,204 |
+| freehire | 123,338 | 58,361 |
+| wayback | 75,302 | 19,264 |
+| kalil | 70,258 | 15,781 |
+| commoncrawl | 71,873 | 15,115 |
+| latmay | 43,585 | 9,752 |
+| openingsmcp | 34,582 | 7,652 |
 | openjobsdata | 366 | 1 |
-| cryptojobs | 317 | 0 |
-| jobseek | 3,380 | 0 |
+| cryptojobs | 318 | 0 |
+| jobseek | 3,387 | 0 |
 | lastround | 9,236 | 0 |
-| openroles | 10,642 | 0 |
+| openroles | 10,589 | 0 |
 | outscal | 836 | 0 |
-| feeds | 74 | 0 |
+| feeds | 86 | 0 |
 
 # Coverage of must-have companies
 
-Seed list: 315 companies (scripts/catalog/seeds/industries.json). Resolved 2026-10-22.
+Seed list: 315 companies (scripts/catalog/seeds/industries.json). Resolved 2026-10-29.
 
 **Trackable** = on a hiring system we scan today. **Not scannable** = board found on a system we don't scan yet. **Custom site** = careers page with no board we can read (hint: which system its pages mention).
 
@@ -118,17 +118,17 @@ Seed list: 315 companies (scripts/catalog/seeds/industries.json). Resolved 2026-
 
 | Hiring system | Seed boards found | Seed sites mentioning it | Directory companies on it | Seed companies |
 |---|---|---|---|---|
-| workable | 7 | 0 | 13,994 | Admirals, Distributedcrafts, Hex Trust, Io-Global, Pepperstone, Walletconnect, Zodia Custody |
-| workday | 3 | 0 | 8,188 | Circle, OANDA, Saxo Bank |
-| comeet | 3 | 0 | 722 | eToro, Leverate, Rapyd |
-| bamboohr | 2 | 0 | 16,452 | IC Markets, Tickmill |
-| recruitee | 2 | 0 | 4,479 | Bitfinex, Deribit |
-| rippling | 2 | 0 | 3,304 | O1labs, Webull |
-| oracle | 2 | 0 | 1,223 | ADGM, Emirates NBD |
-| personio | 1 | 0 | 5,381 | Safe.Global |
-| successfactors | 1 | 0 | 1,903 | Equiti |
-| pinpoint | 1 | 0 | 1,738 | Tabby |
-| taleo | 1 | 0 | 239 | Mashreq |
+| workable | 7 | 0 | 14,014 | Admirals, Distributedcrafts, Hex Trust, Io-Global, Pepperstone, Walletconnect, Zodia Custody |
+| workday | 3 | 0 | 8,229 | Circle, OANDA, Saxo Bank |
+| comeet | 3 | 0 | 725 | eToro, Leverate, Rapyd |
+| bamboohr | 2 | 0 | 17,273 | IC Markets, Tickmill |
+| recruitee | 2 | 0 | 4,521 | Bitfinex, Deribit |
+| rippling | 2 | 0 | 3,349 | O1labs, Webull |
+| oracle | 2 | 0 | 1,252 | ADGM, Emirates NBD |
+| personio | 1 | 0 | 5,411 | Safe.Global |
+| successfactors | 1 | 0 | 1,950 | Equiti |
+| pinpoint | 1 | 0 | 1,744 | Tabby |
+| taleo | 1 | 0 | 299 | Mashreq |
 
 ## Not trackable yet
 
@@ -238,7 +238,7 @@ Seed list: 315 companies (scripts/catalog/seeds/industries.json). Resolved 2026-
 | Foundrydigital | crypto | unreachable | HTTP 403 (https://foundrydigital.com/company/careers) |
 | FXCM | brokerage | unreachable | HTTP 403 (https://fxcm.com/company/careers) |
 | Messari | crypto | unreachable | HTTP 429 (https://messari.io/company/careers) |
-| Polymesh | tokenization | unreachable | HTTP 404 (https://polymesh.network/company/careers) |
+| Polymesh | tokenization | unreachable | HTTP 403 (https://polymesh.network/company/careers) |
 | Revolut | digital-bank, payments | unreachable | HTTP 403 (https://revolut.com/company/careers) |
 | Sygnum | crypto | unreachable | HTTP 403 (https://sygnum.com/company/careers) |
 | Tarabut | banking, payments | unreachable | HTTP 404 (https://tarabut.com/company/careers) |

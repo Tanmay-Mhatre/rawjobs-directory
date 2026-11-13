@@ -1,6 +1,6 @@
 # Directory coverage
 
-Independent sample: 17,978 Wikidata companies resolved, 2908 on a system the directory tracks, 0 on another system, 5107 with a careers page we can't read.
+Independent sample: 17,977 Wikidata companies resolved, 2923 on a system the directory tracks, 0 on another system, 5152 with a careers page we can't read.
 
 ## Universe: how much of each hiring system we hold
 
@@ -8,21 +8,21 @@ Independent sample: 17,978 Wikidata companies resolved, 2908 on a system the dir
 
 | Hiring system | Ours (live + dormant) | Estimate | Ours / estimate | Sample boards | Already had | Sample coverage | Listed only by restricted sources |
 |---|---|---|---|---|---|---|---|
-| greenhouse | 9,939 | 10,521 | 94% | 189 | 186 | 98% | 149 |
+| greenhouse | 9,940 | 10,522 | 94% | 189 | 186 | 98% | 149 |
 | lever | 2,922 | 2,979 | 98% | 40 | 40 | 100% | 61 |
-| ashby | 4,990 | 5,272 | 95% | 41 | 41 | 100% | 52 |
-| smartrecruiters | 13,389 | 13,857 | 97% | 47 | 46 | 98% | 0 |
-| workday | 8,233 | 8,824 | 93% | 775 | 768 | 99% | 5,965 |
-| workable | 15,641 | 29,812 | 52% | 33 | 33 | 100% | 0 |
+| ashby | 4,993 | 5,273 | 95% | 41 | 41 | 100% | 53 |
+| smartrecruiters | 13,395 | 13,863 | 97% | 47 | 46 | 98% | 0 |
+| workday | 8,242 | 8,900 | 93% | 778 | 771 | 99% | 5,961 |
+| workable | 15,639 | 29,816 | 52% | 33 | 33 | 100% | 0 |
 | recruitee | 4,700 | 5,536 | 85% | 17 | 15 | 88% | 0 |
 | personio | 5,438 | 5,731 | 95% | 12 | 11 | 92% | 0 |
 | bamboohr | 18,384 | 20,819 | 88% | 33 | 32 | 97% | 0 |
 | breezy | 5,278 | 7,362 | 72% | 15 | 13 | 87% | 0 |
-| successfactors | 2,123 | 2,393 | 89% | 340 | 24 | 7% | 0 |
+| successfactors | 2,123 | 2,393 | 89% | 341 | 25 | 7% | 0 |
 | teamtailor | 5,587 | 10,085 | 55% | 115 | 65 | 57% | 0 |
 | comeet | 723 | 775 | 93% | 14 | 14 | 100% | 0 |
 | oracle | 1,267 | 1,325 | 96% | 175 | 170 | 97% | 0 |
-| icims | 3,555 | 3,923 | 91% | 91 | 78 | 86% | 0 |
+| icims | 3,555 | 3,923 | 91% | 92 | 79 | 86% | 0 |
 | taleo | 298 | 307 | 97% | 16 | 16 | 100% | 0 |
 | jobvite | 1,763 | 2,759 | 64% | 14 | 14 | 100% | 0 |
 | pinpoint | 2,106 | 2,364 | 89% | 11 | 10 | 91% | 0 |
@@ -32,15 +32,15 @@ Independent sample: 17,978 Wikidata companies resolved, 2908 on a system the dir
 | hibob | 539 | 661 | 82% | 13 | 8 | 62% | 0 |
 | freshteam | 695 | 1,738 | 40% | 0 | 0 | – | 0 |
 | join | 38,007 | 61,880 | 61% | 0 | 0 | – | 0 |
-| paylocity | 15,468 | 18,216 | 85% | 27 | 24 | 89% | 0 |
+| paylocity | 15,468 | 18,216 | 85% | 28 | 25 | 89% | 0 |
 | paycom | 10,854 | 14,706 | 74% | 10 | 9 | 90% | 0 |
 | hireology | 4,870 | 16,860 | 29% | 0 | 0 | – | 0 |
-| ukg | 3,002 | 3,676 | 82% | 73 | 71 | 97% | 0 |
+| ukg | 3,002 | 3,676 | 82% | 74 | 72 | 97% | 0 |
 | eightfold | 97 | 105 | 92% | 19 | 19 | 100% | 0 |
 | phenom | 318 | 533 | 60% | 0 | 0 | – | 0 |
 | careerplug | 6,904 | 146,696 | 5% | 5 | 5 | 100% | 0 |
-| dayforce | 1,927 | 2,142 | 90% | 27 | 26 | 96% | 0 |
-| adp | 4,836 | 20,919 | 23% | 67 | 31 | 46% | 0 |
+| dayforce | 1,927 | 2,142 | 90% | 28 | 27 | 96% | 0 |
+| adp | 4,837 | 20,920 | 23% | 68 | 31 | 46% | 0 |
 | applicantpro | 6,211 | 16,374 | 38% | 14 | 14 | 100% | 0 |
 | paycor | 2,444 | 1,492,675 | 0% | 8 | 6 | 75% | 0 |
 | hiringthing | 1,492 | 22,101 | 7% | 2 | 0 | 0% | 0 |
@@ -52,35 +52,35 @@ Independent sample: 17,978 Wikidata companies resolved, 2908 on a system the dir
 | softgarden | 955 | 4,298 | 22% | 14 | 8 | 57% | 0 |
 | cornerstone | 570 | 610 | 93% | 23 | 23 | 100% | 0 |
 | keka | 469 | 548 | 86% | 2 | 2 | 100% | 0 |
-| taleobe | 272 | 315 | 86% | 9 | 8 | 89% | 0 |
+| taleobe | 291 | 307 | 95% | 9 | 8 | 89% | 0 |
 | jobscore | 228 | 308 | 74% | 0 | 0 | – | 0 |
-| avature | 74 | 1,352 | 5% | 12 | 12 | 100% | 0 |
+| avature | 75 | 1,389 | 5% | 12 | 12 | 100% | 0 |
 | pageup | 104 | 2,782 | 4% | 3 | 3 | 100% | 0 |
 | radancy | 0 | 0 | – | 0 | 0 | – | 0 |
 | oleeo | 118 | 3,570 | 3% | 7 | 7 | 100% | 0 |
 | jobtrain | 0 | 0 | – | 0 | 0 | – | 0 |
 | varbi | 205 | 10,457 | 2% | 3 | 1 | 33% | 0 |
-| reachmee | 5 | 5 | 100% | 5 | 0 | 0% | 0 |
+| reachmee | 6 | 6 | 100% | 6 | 0 | 0% | 0 |
 | jobylon | 23 | 150 | 15% | 1 | 1 | 100% | 0 |
 | homerun | 457 | 52,327 | 1% | 2 | 1 | 50% | 0 |
 | emply | 34 | 298 | 11% | 2 | 1 | 50% | 0 |
 | bullhorn | 0 | 0 | – | 0 | 0 | – | 0 |
-| hrmos | 1,270 | 397,855 | 0% | 42 | 32 | 76% | 0 |
+| hrmos | 1,270 | 397,855 | 0% | 43 | 33 | 77% | 0 |
 | herp | 822 | 167,082 | 0% | 9 | 3 | 33% | 0 |
 | engage | 13,485 | 45,444,455 | 0% | 6 | 2 | 33% | 0 |
-| **All** | 243,157 | 48,096,163 | 1% | 2436 | 1942 | 80% | 6,227 |
+| **All** | 243,196 | 48,096,282 | 1% | 2447 | 1951 | 80% | 6,224 |
 
 ### Which URL source carries its weight (live + dormant boards)
 
 | Source family | Boards | Only this source |
 |---|---|---|
-| freehire | 123,341 | 50,061 |
-| commoncrawl | 83,996 | 23,874 |
-| kalil | 111,545 | 19,282 |
-| wayback | 78,543 | 18,427 |
-| latmay | 51,658 | 13,364 |
-| openingsmcp | 34,582 | 1,161 |
-| feeds | 134 | 4 |
+| freehire | 123,341 | 50,037 |
+| commoncrawl | 84,000 | 23,794 |
+| kalil | 112,662 | 19,306 |
+| wayback | 78,547 | 18,427 |
+| latmay | 51,656 | 13,364 |
+| openingsmcp | 34,582 | 1,160 |
+| feeds | 136 | 4 |
 | openjobsdata | 366 | 1 |
 | cryptojobs | 326 | 0 |
 | jobseek | 3,388 | 0 |
